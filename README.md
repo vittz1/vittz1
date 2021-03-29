@@ -1,10 +1,10 @@
 ## Informações Básicas.
 
 Meu nome é João Vitor. Atualmente moro no estado do Rio De Janeiro e curso Ciencia da computação.
-No meu tempo livre gosto de criar projetos e hackear coisas.
+No meu tempo livre gosto de programar e hackear coisas.
 
-En - My name is Joao Vitor. I currently live in the state of Rio De Janeiro and have a Computer Science course.
-In my spare time I like to create projects and hack things.
+En - My name is Joao Vitor. I currently live in the state of Rio De Janeiro and I study Ciencia de Comp ..
+In my spare time I like to program and hack things.
 
 ## Informações Especificas.
 
