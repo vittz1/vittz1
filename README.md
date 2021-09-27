@@ -1,31 +1,35 @@
-## Informações Básicas.
+## Hello there
 
-Meu nome é João Vitor. Atualmente moro no estado do Rio De Janeiro e curso Ciencia da computação.
-No meu tempo livre gosto de programar e hackear coisas.
+I don't really know how u got here, but I will try to show a little bit about myself for you.
 
-En - My name is Joao Vitor. I currently live in the state of Rio De Janeiro and I study Ciencia de Comp ..
-In my spare time I like to program and hack things.
+## Informação pública
 
-## Informações Especificas.
+Meu nome é João Vitor. Atualmente moro em Volta Redonda(interior do RJ), Brasil.
+No meu tempo livre, gosto de programar, estudar sobre segurança digital e jogar uns CTFs.
+
+
+En - My name is Joao Vitor. I currently live in Volta Redonda(interior of RJ), Brazil.
+In my free time, I like programming, studying about cyber security and playing CTFs.
+
+## Detailed information.
 
 * **Name**: João Vitor.
-* **Age:** 23.
+* **Age:** 24.
 * **Living in:** Rio de Janeiro.
-* **Stack:** Visual Basic, C, C#, JavaScript, HTML, PHP.
+* **Stack:** C, C#, Visual Basic, PHP, Python, JavaScript.
 * **University:** Ciencia da computação.
 
 ## Curisiodades.
-* Joguei futebol dos meus 6 anos até os 17, e nesse tempo fui campeão de muitos campeonatos regionais.
-* Meu primeiro contato com computadores foi com meus 9 anos, com um famoso Windows 97, desde então me apaixonei por computadores.
-* Comecei a programar com 11 anos e meu primeiro contato com programação foi com Visual Basic, na criação de crypters em 2011.
+* Joguei futebol dos meus 7 anos até os 17.
+* Meu primeiro contato com computadores foi com meus 9 anos, desde então me apaixonei por computadores.
+* Comecei a programar com 11 anos e meu primeiro contato com programação foi com Visual Basic.
 * Desde então me apaixonei pela area de programação e segurança digital.
 ----------------------------------------------------------------------------------
-* I played football from my 6 years old until I was 17, and in that time I was champion of many regional championships.
-* My first contact with computers was with my 9 years old, with a famous Windows 97, since then I fell in love with computers.
-* I started programming at the age of 11 and my first contact with programming was with Visual Basic, when creating crypters in 2011.
-* Since then I fell in love with the area of programming and digital security.
-
-* É isso
+## Curiosities about me
+* I played soccer from my 7 years old until I was 17.
+* My first contact with computers was when I was 9 years old, since then I fell in love with computers.
+* I started programming when I was 11 years old and my first contact with programming was with Visual Basic.
+* Since then I fell in love with the area of programming and cyber security.
 
 
 <!--
