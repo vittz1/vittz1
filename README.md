@@ -1,48 +1,54 @@
-## Hello there
+## Hello, stranger! 👋
 
-I don't really know how u got here, but I will try to show a little bit about myself for you.
+So you found me.
 
-## Informação pública
+- My name is Joao Vitor. I currently live in Volta Redonda(interior of RJ), Brazil. In my free time, I like programming, studying about cyber security and playing CTFs.
 
-Meu nome é João Vitor. Atualmente moro em Volta Redonda(interior do RJ), Brasil.
-No meu tempo livre, gosto de programar, estudar sobre segurança digital e jogar uns CTFs.
-
-
-En - My name is Joao Vitor. I currently live in Volta Redonda(interior of RJ), Brazil.
-In my free time, I like programming, studying about cyber security and playing CTFs.
-
-## Detailed information.
-
-* **Name**: João Vitor.
-* **Age:** 24.
-* **Living in:** Rio de Janeiro.
-* **Stack:** C, C#, Visual Basic, PHP, Python, JavaScript.
-* **University:** Ciencia da computação.
-
-## Curisiodades.
-* Joguei futebol dos meus 7 anos até os 17.
-* Meu primeiro contato com computadores foi com meus 9 anos, desde então me apaixonei por computadores.
-* Comecei a programar com 11 anos e meu primeiro contato com programação foi com Visual Basic.
-* Desde então me apaixonei pela area de programação e segurança digital.
-----------------------------------------------------------------------------------
-## Curiosities about me
-* I played soccer from my 7 years old until I was 17.
-* My first contact with computers was when I was 9 years old, since then I fell in love with computers.
-* I started programming when I was 11 years old and my first contact with programming was with Visual Basic.
-* Since then I fell in love with the area of programming and cyber security.
+## Things I love
 
 
-<!--
-**vittz1/vittz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code><img height="20" src="https://img.shields.io/badge/-Assembly%20(Intel%2FAMD)-red" title="Assembly (Intel/AMD)"></code>
+<code><img height="20" src="https://img.shields.io/badge/-C-blue" title="C"></code>
+<code><img height="20" src="https://img.shields.io/badge/-C%2B%2B-blueviolet" title="C++"></code>
+<code><img height="20" src="https://img.shields.io/badge/-C%23-yellowgreen" title="C#"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Python-yellow" title="Python"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Visual%20Basic-blue" title="Visual Basic"></code>
 
-Here are some ideas to get you started:
+****
+## Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://img.shields.io/badge/-PHP-blue" title="PHP"></code>
+<code><img height="20" src="https://img.shields.io/badge/-CSS-lightgrey" title="CSS"></code>
+<code><img height="20" src="https://img.shields.io/badge/-HTML-green" title="HTML/XHTML"></code>
+<code><img height="20" src="https://img.shields.io/badge/-NodeJS-yellowgreen" title="NodeJS"></code>
+<code><img height="20" src="https://img.shields.io/badge/-JavaScript-yellow" title="JavaScript"></code>
+
+****
+
+## DataBase
+
+<code><img height="20" src="https://img.shields.io/badge/-MySQL-9cf" title="MySQL"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Oracle-red" title="Oracle"></code>
+<code><img height="20" src="https://img.shields.io/badge/-PostgreSQL-blue" title="PostgreSQL"></code>
+<code><img height="20" src="https://img.shields.io/badge/-SQL%20Serve-brightgreen" title="SQL Server"></code>
+
+****
+
+## Operation Systens
+
+<code><img height="20" src="https://img.shields.io/badge/-Android-green" title="Android"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Linux-orange" title="Linux"></code>
+<code><img height="20" src="https://img.shields.io/badge/-MacOS-blue" title="MacOS"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Windows-blueviolet" title="Windows"></code>
+
+
+********
+  
+<details>
+  <summary>📊 Social Midia</summary>
+
+  <img src="https://img.shields.io/twitch/status/vittz0r?style=social" alt="Joel's Stats" /> 
+  <br>
+  <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fvithor97">
+
+</details>
