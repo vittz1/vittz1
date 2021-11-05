@@ -2,7 +2,7 @@
 
 So you found me.
 
-- My name is Joao Vithor Reis. I currently live in Volta Redonda(interior of RJ), Brazil. I like to program and studying about cyber security.
+- My name is Joao Vithor Reis. I currently live in Volta Redonda(interior of RJ), Brazil.
 
 ## Things I love
 
