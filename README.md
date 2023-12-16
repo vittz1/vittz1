@@ -1,1 +1,1 @@
-## Hello, stranger! 👋
+## I like computers
